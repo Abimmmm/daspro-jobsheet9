@@ -25,7 +25,7 @@ public class Tugas2_01 {
         for (int i = 0; i < jumlahPesanan; i++) {
             System.out.println((i + 1) + ". " + namaPesanan[i] + " - Rp " + hargaPesanan[i]);
         }
-        System.out.printf("Total Biaya: Rp " + totalBiaya);
+        System.out.print("Total Biaya: Rp " + totalBiaya);
 
     }
 }
